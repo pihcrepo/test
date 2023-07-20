@@ -1,0 +1,6 @@
+.box {
+    background-color:black;
+
+     box-shadow: blue -10px 0 5px ;
+}
+/* horizontal-offset, vertical-offset, blur-radius, spread-radius, color */
